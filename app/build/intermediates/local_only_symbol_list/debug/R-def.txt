@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id clickBtn
+id clicksText
+id minus_button
+id plus_button
+layout activity_main
+layout button_panel
+layout text_panel
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Laba5
+style Theme.Laba5
+xml backup_rules
+xml data_extraction_rules
